@@ -1,2 +1,2 @@
-Simple Face Detection Code Using Open-cv 
 # Face-Detection
+Simple Face Detection Code Using Open-cv 
