@@ -1,12 +1,7 @@
 import cv2
 import sys
 import os
-"""datasets = 'ii'  
-sub_data = 'nikunj'     
-  
-path = os.path.join(datasets, sub_data) 
-if not os.path.isdir(path): 
-    os.mkdir(path)""" 
+
 faceCascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 video_capture = cv2.VideoCapture(0)
